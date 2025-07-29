@@ -1,2 +1,1 @@
-# mtc-repo
-my mtc codebase
+# This repository is for infra developers.
